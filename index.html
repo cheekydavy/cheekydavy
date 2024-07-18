@@ -1163,43 +1163,42 @@ img {
         </div>
     </div>
 
-    <!-- contact section design -->
-    <section class="contact" id="contact">
-        <h2 class="heading">Contact <span>Me!</span></h2>
+   <section class="contact" id="contact">
+    <h2 class="heading">Contact <span>Me!</span></h2>
+    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+        <div class="input-box">
+            <input type="text" name="full_name" placeholder="Full Name">
+            <input type="email" name="email" placeholder="Email Address">
+        </div>
+        <div class="input-box">
+            <input type="tel" name="mobile_number" placeholder="Mobile Number">
+            <input type="text" name="email_subject" placeholder="Email Subject">
+        </div>
+        <textarea name="message" cols="30" rows="10" placeholder="Your Message"></textarea>
+        <input type="submit" name="submit" value="Send Message" class="btn">
+    </form>
+</section>
 
-        <form action="#">
-            <div class="input-box">
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $full_name = $_POST['full_name'];
+    $email = $_POST['email'];
+    $mobile_number = $_POST['mobile_number'];
+    $email_subject = $_POST['email_subject'];
+    $message = $_POST['message'];
 
+    // Process the form data inline
+    $to = "osidembuvi@gmail.com";
+    $subject = $email_subject;
+    $email_body = "Name: $full_name\n";
+    $email_body .= "Email: $email\n";
+    $email_body .= "Mobile Number: $mobile_number\n";
+    $email_body .= "Message:\n$message";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <input type="text" placeholder="Full Name">
-                <input type="email" placeholder="Email Address">
-            </div>
-            <div class="input-box">
-                <input type="number" placeholder="Mobile Number">
-                <input type="text" placeholder="Email Subject">
-            </div>
-            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
-            <input type="submit" value="Send Message" class="btn"><br>
-            <button=welcome"lemish">welcome back again to my website</button>
-        </form>
-    </section>
+    // Send the email
+    mail($to, $subject, $email_body);
+}
+?>
 
     <!-- footer design -->
     <footer class="footer">
