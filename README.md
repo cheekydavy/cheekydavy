@@ -5,7 +5,8 @@
   <b>🧩 Passionate Software Developer</b>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 
 ## 🌱 About Me
 - 🖥️ Currently a **Computer Science student** at Moi University.
@@ -20,7 +21,8 @@
 
 - 🪴 In my free time, I explore **system internals, networking, and tech productivity hacks**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, Bash
@@ -30,7 +32,8 @@
 - **Dev Tools:** Git, GitHub, VS Code, Postman, Heroku, Netlify, Fly.io
 - **Interests:** Automation, AI, Ethical Hacking, Telegram & WhatsApp Bot Development
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 
 ## 📈 GitHub Stats
 
@@ -44,7 +47,8 @@
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHEEKYDAVY&theme=dark" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 
 ## 🚀 Featured Projects
 - [**WhatsApp Bot**](sessions.mbuvitech.site) – Always-online WhatsApp bot for utility tasks and automation.
@@ -57,13 +61,15 @@
 
 > 🛠️ I am always working on side projects to learn and solve real-world problems.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 
 ## ✍️ Latest Blog Posts
 
 - 📘 *Coming soon*: Articles on **efficient learning as a CS student**, **network security basics**, and **deploying your projects easily.**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 
 ## 📫 Connect With Me
 
@@ -81,7 +87,8 @@
 
 ⭐ **Thank you for visiting! If you like what you see, consider following me and checking out my repositories to see my ongoing work.**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CHEEKYDAVY&style=flat-square&color=blue" alt="Profile Views" />
 </p>
