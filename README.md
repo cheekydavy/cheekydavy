@@ -1,4 +1,4 @@
-![MBUVIAI](https://cardivo-beta.vercel.app/api?name=Mbuvi%20Tech&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/Dff6tPsP/Img2url-bot.jpg&backgroundColor=%23718aa1&&fontColor=%23232329&iconColor=%23232329&instagram=_mbuvi&github=cheekydavy&linkedin=david-mbuvi-623405290&pattern=topography&colorPattern=%23eaeaea&opacity=0.2&site=https://sessions.mbuvitech.site)
+![MBUVIMD](https://cardivo-beta.vercel.app/api?name=Mbuvi%20Tech&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/Dff6tPsP/Img2url-bot.jpg&backgroundColor=%23718aa1&&fontColor=%23232329&iconColor=%23232329&instagram=_mbuvi&github=cheekydavy&linkedin=david-mbuvi-623405290&pattern=topography&colorPattern=%23eaeaea&opacity=0.2&site=https://sessions.mbuvitech.site)
 
 <p align="center">
   <h1 align="center">👋 Hi, I’m David Mbuvi</h1>
@@ -51,7 +51,7 @@
 
 
 ## 🚀 Featured Projects
-- [**WhatsApp Bot**](sessions.mbuvitech.site) – Always-online WhatsApp bot for utility tasks and automation.
+- [**WhatsApp Bot**](https://github.com/mbuvimd) – Always-online WhatsApp bot (mbuvimd) for utility tasks and automation.
 
 - [**Smart Study Planner**](https://smartstudy.fly.dev) – A web app to manage study plans, track streaks, and maintain discipline.
 
