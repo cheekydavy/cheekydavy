@@ -9,10 +9,15 @@
 
 ## 🌱 About Me
 - 🖥️ Currently a **Computer Science student** at Moi University.
+
 - 💡 Interested in **Backend Development, Automation, Bots, and AI integration**.
+
 - 🌱 Currently learning **JavaScript, Node.js, and advanced system programming concepts**.
+
 - 🎯 Focused on building **fast, clean, and scalable software projects**.
+
 - 🐧 Enjoys tinkering with **Linux systems (Kali, Debian)** for ethical hacking and learning.
+
 - 🪴 In my free time, I explore **system internals, networking, and tech productivity hacks**.
 
 ---
@@ -42,7 +47,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**WhatsApp Bot (Baileys)**] – Always-online WhatsApp bot for utility tasks and automation.
+- [**WhatsApp Bot (Baileys)**] (sessions.mbuvitech.site) – Always-online WhatsApp bot for utility tasks and automation.
 
 - [**Smart Study Planner**](https://smartstudy.fly.dev) – A web app to manage study plans, track streaks, and maintain discipline.
 
