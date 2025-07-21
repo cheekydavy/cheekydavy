@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 align="center">👋 Hi, I’m David Mbuvi</h1>
-  <b>🚀 Passionate Software Developer | 🧩 Building simple solutions for complex problems | 💡 Always Learning</b>
+  <b>🧩 Passionate Software Developer</b>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**WhatsApp Bot (Baileys)**] (sessions.mbuvitech.site) – Always-online WhatsApp bot for utility tasks and automation.
+- [**WhatsApp Bot**](sessions.mbuvitech.site) – Always-online WhatsApp bot for utility tasks and automation.
 
 - [**Smart Study Planner**](https://smartstudy.fly.dev) – A web app to manage study plans, track streaks, and maintain discipline.
 
