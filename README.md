@@ -75,9 +75,9 @@
 
 - **Email:** [mbuvidavid26@gmail.com](mailto:mbuvidavid26@gmail.com)
 - **Instagram:** [\_mbuvi](https://www.instagram.com/_mbuvi)
-- **LinkedIn:** [David Mbuvi](https://www.linkedin.com/in/david-mbuvi-623405290/)
-- **Website:** [sessions.mbuvitech.site](https://sessions.mbuvitech.site)
-- **GitHub:** [CHEEKYDAVY](https://github.com/CHEEKYDAVY)
+- **LinkedIn:** [David Mbuvi](https://www.linkedin.com/in/davidmbuvi)
+- **Website:** [Mbuvi Tech](https://portfolio.kensync.co.ke)
+- **GitHub:** [CHEEKYDAVY](https://github.com/cheekydavy)
 
 
 
